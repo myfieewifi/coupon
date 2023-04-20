@@ -12,8 +12,8 @@
 3. Mybatis-Plus
 4. Redis
 
-![首页](https://foruda.gitee.com/images/1681492224251972541/feca8be7_10351049.jpeg "1.jpg")
+![首页](https://s1.ax1x.com/2023/04/20/p9ANUEQ.png "首页")
 
-![查询订单](https://foruda.gitee.com/images/1681492245855741797/c3e54b15_10351049.jpeg "2.jpg")
+![查询订单](https://s1.ax1x.com/2023/04/20/p9AUla4.png "查询订单")
 
-![个人中心](https://foruda.gitee.com/images/1681492270773256906/340234ca_10351049.jpeg "3.jpg")
+![个人中心](https://s1.ax1x.com/2023/04/20/p9ANtHg.png "个人中心")
