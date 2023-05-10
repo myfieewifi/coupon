@@ -11,11 +11,7 @@
 2. MySQL
 3. Mybatis-Plus
 4. Redis
-首页：
+
 ![首页](https://s1.ax1x.com/2023/04/20/p9ANUEQ.png "首页")
-
-查询订单：
 ![查询订单](https://s1.ax1x.com/2023/04/20/p9AUla4.png "查询订单")
-
-个人中心:
 ![个人中心](https://s1.ax1x.com/2023/04/20/p9ANtHg.png "个人中心")
